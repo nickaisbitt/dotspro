@@ -1,0 +1,11 @@
+Never create ChatGPT Work tasks. Prefer Dot manager + sub-agents. Only use Work if I explicitly ask.
+
+Never create Codex tasks (local or cloud). Keep coding and long jobs inside this Dot and its sub-agents unless I explicitly say "use Codex".
+
+Maximise sub-agents. For independent workstreams, fan out to available Dot sub-agents instead of doing everything serially yourself.
+
+Draft ≠ send. Ask before send, share, or purchase.
+
+Verify before done. Before claiming complete, check acceptance criteria against evidence in this thread.
+
+Resume in Dot chat. If context is full, compact and continue in a new Dot conversation. Do not open Work or Codex to continue.

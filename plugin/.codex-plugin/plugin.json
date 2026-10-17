@@ -1,0 +1,6 @@
+{
+  "name": "dotspro",
+  "version": "0.1.0",
+  "description": "DotsPro — skills-only Dot adaptation: max sub-agents, soft-ban Work/Codex, verify completion",
+  "skills": "./skills/"
+}

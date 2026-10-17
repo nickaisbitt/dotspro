@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dotspro",
+  "version": "0.1.0",
+  "description": "Skills-only ChatGPT Dot adaptation: maximise manager + sub-agents (dot_native_only), soft-ban Work/Codex, verify completion. No MCP required.",
+  "author": {
+    "name": "DotsPro"
+  },
+  "homepage": "https://github.com/nickaisbitt/dotspro",
+  "license": "MIT"
+}
