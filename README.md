@@ -4,10 +4,12 @@ Skills-only ChatGPT Dot plugin — maximise Dot manager + sub-agents (`dot_nativ
 
 ## Install on Mac (ChatGPT desktop)
 
+Paste this to Claude Code or run in Terminal:
+
 ```bash
 git clone https://github.com/nickaisbitt/dotspro.git
 cd dotspro
-bash scripts/bootstrap-dotspro-mac.sh
+bash scripts/install-mac-local.sh
 ```
 
 Then:
